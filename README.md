@@ -1,16 +1,16 @@
 HR Analytics  Dashboard
 
-Project Summary
+Project Summary  
 This dashboard analyzes employee data to identify attrition trends, workforce patterns, and key retention factors. It exists to help HR teams make data-driven decisions that improve employee retention and workforce planning.
 
-Tech Stack
+Tech Stack  
 Power BI Desktop – Dashboard creation and visualization
 Power Query – Data cleaning and transformation
 DAX – KPI calculations and measures
 Data Modelling – Structuring data for efficient analysis
 File Format – .pbix, .csv
 
-Features and Highlights
+Features and Highlights   
 Business Problem:
 Organizations face challenges in understanding why employees leave and which groups are most affected by attrition, leading to increased hiring costs and workforce instability.
 
