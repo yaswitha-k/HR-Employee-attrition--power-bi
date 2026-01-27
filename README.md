@@ -1,36 +1,26 @@
-HR Analytics & Employee Attrition Insights
+HR Analytics  Dashboard
 
-Advised HR stakeholders through data-driven insights by analyzing employee data to identify attrition trends, workforce patterns, and key retention drivers. Delivered actionable insights using Power BI dashboards to support strategic HR decision-making.
+Project Summary
+This dashboard analyzes employee data to identify attrition trends, workforce patterns, and key retention factors. It exists to help HR teams make data-driven decisions that improve employee retention and workforce planning.
 
-Project Overview – HR Analytics Advisory
+Tech Stack
+Power BI Desktop – Dashboard creation and visualization
+Power Query – Data cleaning and transformation
+DAX – KPI calculations and measures
+Data Modelling – Structuring data for efficient analysis
+File Format – .pbix, .csv
 
-Organizations today face increasing challenges in employee retention, workforce planning, and performance management. As companies scale, understanding employee behavior and attrition patterns becomes critical for reducing costs and improving productivity.
+Features and Highlights
+Business Problem:
+Organizations face challenges in understanding why employees leave and which groups are most affected by attrition, leading to increased hiring costs and workforce instability.
 
-In this project, I worked as a Data Analyst to analyze HR data and transform it into meaningful insights that help HR teams make informed decisions.
+Goal of the Dashboard:
+To provide a clear and interactive view of employee attrition and key HR metrics, enabling HR teams to identify high-risk areas and take proactive retention actions.
 
-The primary objectives of this project were:
+Key Visuals Overview:
+The dashboard includes KPIs for employee count and attrition rate, department and job role–wise attrition analysis, age group and gender distribution, and insights into job satisfaction, income, and work-life balance, supported by interactive slicers.
 
---> Analyzing employee attrition patterns across departments, job roles, age groups, and gender.
+Business Impact and Insights:
+The dashboard helps HR stakeholders quickly identify high-attrition departments and roles, understand factors influencing employee turnover, and support strategic workforce planning and retention decisions.
 
---> Identifying key factors influencing employee turnover such as income, experience, and job satisfaction.
-
---> Creating an interactive Power BI dashboard for real-time and self-service HR analytics.
-
---> Presenting insights in a clear, business-focused manner to support workforce strategy.
-
-
- My Role & Contributions
-
-During this end-to-end analytics project, I:
-
-✅ Acted as a Data Analyst, translating raw HR data into actionable business insights.
-
-✅ Cleaned, transformed, and modeled the dataset using Power Query to ensure data accuracy and consistency.
-
-✅ Analyzed employee demographics, experience, income, and performance to uncover attrition drivers.
-
-✅ Identified departments and job roles with higher attrition risk.
-
-✅ Designed an interactive Power BI dashboard with KPIs, charts, and slicers for dynamic analysis.
-
-✅ Communicated insights in a structured format suitable for HR managers and leadership.
+Here is the Power BI dashboard for HR analytics.
